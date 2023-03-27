@@ -1,7 +1,7 @@
 # Exercicios-python
 
 Olá este é um repositório de treinamento de exercicios na linguagem python.
-São exercícios básicos porém uteis para praticar. 
+São exercícios básicos porém úteis para praticar. 
 
 
 
