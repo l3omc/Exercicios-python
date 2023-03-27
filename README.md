@@ -17,3 +17,12 @@ Lista 2 :
 
 Lista 3 :
 [Estrutura de Repetição](https://wiki.python.org.br/EstruturaDeRepeticao)
+
+Lista 4 :
+[]()
+
+Lista 5 :
+[]()
+
+Lista 6 :
+[]()
